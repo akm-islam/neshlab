@@ -1,0 +1,27 @@
+{
+  "name": "react-animated-slider-fully-animated",
+  "version": "0.0.12",
+  "description": "https://github.com/erichbehrens/react-animated-slider",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.13",
+    "@material-ui/icons": "^4.9.1",
+    "bootstrap": "^4.4.1",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "normalize.css": "latest",
+    "react": "^16.12.0",
+    "react-animated-slider": "2.0.0",
+    "react-dom": "^16.12.0",
+    "reactstrap": "^8.4.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

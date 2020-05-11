@@ -1,0 +1,13 @@
+{
+  "name": "react-animated-slider-fully-animated",
+  "version": "1.0.0",
+  "description": "https://github.com/erichbehrens/react-animated-slider",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "latest",
+    "react": "latest",
+    "react-animated-slider": "2.0.0",
+    "react-dom": "latest"
+  }
+}
