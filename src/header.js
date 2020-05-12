@@ -33,8 +33,20 @@ function Header() {
             <NavItem>
               <NavLink href="/components/">Publication</NavLink>
             </NavItem>
+            <NavItem>
+              <NavLink href="/components/">Home</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="https://github.com/reactstrap/reactstrap">Research</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/components/">Members</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/components/">Publication</NavLink>
+            </NavItem>
           </Nav>
-          <NavbarText>Simple Text</NavbarText>
+          <NavLink href="/components/">Login</NavLink>
         </Collapse>
       </Navbar>
     </div>
